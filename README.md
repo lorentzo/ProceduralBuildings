@@ -2,7 +2,10 @@
 
 WIP.
 
-"Pine" is codename refering to something high.
+Goal:
+* Procedural model in Houdini
+* Blender rendering and animation
+* Unity interactive environment
 
 Houdini 19.5.716 - Py3.9
 
