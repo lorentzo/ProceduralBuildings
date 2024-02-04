@@ -3,11 +3,13 @@
 WIP.
 
 Goal:
-* Procedural model in Houdini
-* Blender rendering and animation
-* Unity interactive environment
+* Procedural model in Houdini - DONE!
+* Blender rendering and animation - DONE!
+* Unity interactive environment - TODO!
 
 Houdini 19.5.716 - Py3.9
+
+More on Artstation: https://www.artstation.com/artwork/EvyJoA
 
 ## Procedural modeling in houdini
 
